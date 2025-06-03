@@ -1,6 +1,6 @@
 Diabetes Prediction – Multi-Class Classification Project
 Overview
-This project was developed as part of an academic assignment while pursuing my Master’s degree in Data Science and Analytics at King Fahd University of Petroleum and Minerals (KFUPM). The aim was to build a machine learning model capable of predicting the stage of diabetes (across 13 distinct classes) based on various health indicators.
+This project was developed as part of an academic assignment while pursuing my Master’s degree in Data Science and Analytics. The aim was to build a machine learning model capable of predicting the stage of diabetes (across 13 distinct classes) based on various health indicators.
 
 Author
 This project was solely developed by Dewao. All aspects of the work—including data preprocessing, model training, evaluation, and visualization—were completed independently as part of my continuous learning journey in applied machine learning.
